@@ -204,7 +204,7 @@ export function Logo() {
         </clipPath>
       </defs>
     </svg>
-<span className="sr-only">Untitled UI</span>
+<span>Untitled UI</span>
     </strong>
 
   )
